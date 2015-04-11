@@ -4,8 +4,10 @@ function areAnagrams(str1,str2) {
 	var str2Chars = str2.split('').sort();
 	var isAnagram = true;
 	str1Chars.forEach(function (curChar, index) {
-		if (str2Chars[index] !== curChar) //every array position should be equal if the strings are anagrams
+		if (str2Chars[index] !== curChar) { //every array position should be equal if the strings are anagrams
 		    isAnagram = false;
+		    return 
+		}
 	});
 	return isAnagram;
 }
