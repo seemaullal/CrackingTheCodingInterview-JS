@@ -1,4 +1,4 @@
-These are my solutions to problems from the book Cracking the Coding Interview (5th edition) in Javascript. 
+These are my solutions to problems from the book Cracking the Coding Interview (5th edition) in Javascript. I am also adding my implementations of common data structures.
 
 The problems in the book are created for Java and C++ so not all are well suited for Javascript. 
 
