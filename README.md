@@ -1,4 +1,4 @@
-##### These are my solutions to problems from the book Cracking the Coding Interview (5th edition) in Javascript. I am also adding my implementations of common data structures. #####
+###### These are my solutions to problems from the book *Cracking the Coding Interview (5th edition)* in Javascript. I am also adding my implementations of common data structures. ######
 
 The problems in the book are created for Java and C++ so not all are well suited for Javascript. Whenever possible, I have tried to do problems in the way the authors intended them to be done (for example, not using arrays to implement things like linked lists, stacks, and queues).
 
