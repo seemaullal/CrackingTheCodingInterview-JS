@@ -9,8 +9,8 @@ come before all nodes greater than or equal to x.
 */
 
 function partitionLinkedList(firstElement, x) {
-	var prev = null;
-	var curr = firstElement;
+	var prev = firstElement;
+	var curr = firstElement.next;
 	var headNode = firstElement;
 
 	//if val is less than the partition, set it as the head to move it left
