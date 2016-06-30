@@ -6,7 +6,7 @@ Here that is defined as a tree that the heights of the two subtrees of any node 
 //building off of the binary search tree defined in the structures folder
 
 BST.prototype.isBalanced = function() {
-	console.log(this);
+	//check if node has both right & left (or neither) to see if balanced
 	function hasRightAndLeft(node){
 		if (!node.right && !node.left) return true;
 		else if (node.right && node.left) {
