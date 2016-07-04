@@ -4,7 +4,7 @@ Problem: In the classic problem of the Towers of Hanoi, you have 3 towers and N 
 2. A disk is slid off the top of one tower onto the next rod.
 3. A disk can onle be placed on top of a larger disk.
 
-Write a prpogram to move the disks from the first to the last using Stacks.
+Write a program to move the disks from the first to the last using Stacks.
 */
 
 /**
