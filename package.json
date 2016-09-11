@@ -1,0 +1,26 @@
+{
+  "name": "cracking-the-coding-interview-js",
+  "version": "1.0.0",
+  "description": "Javascript solutions to problems from the book \"Cracking the Coding Interview\"",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seemaullal/CrackingTheCodingInterview-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seemaullal/CrackingTheCodingInterview-JS/issues"
+  },
+  "homepage": "https://github.com/seemaullal/CrackingTheCodingInterview-JS#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
